@@ -16,7 +16,7 @@
 
 ### Tools I use
 
-![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,Laravel,nodejs,git&perline=6)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,php,nodejs,git,github&perline=6)
 
 ### Selected projects
 
