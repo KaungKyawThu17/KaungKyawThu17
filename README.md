@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kaung Kyaw Thu 👋</h1>
 
-<!--
-**KaungKyawThu17/KaungKyawThu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend developer building useful, thoughtful web experiences.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://example.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/YOUR_HANDLE">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- Building: Awayar Event Project
+- Learning: Cloud
+
+### Tools I use
+
+![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,Laravel,nodejs,git&perline=6)
+
+### Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [Project One](https://github.com/YOUR_USERNAME/PROJECT_ONE) | Describe its purpose in one sentence. |
+| [Project Two](https://github.com/YOUR_USERNAME/PROJECT_TWO) | Describe its purpose in one sentence. |
